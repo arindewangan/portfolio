@@ -1,7 +1,7 @@
 /*
 Template Name: Upzet - Responsive Bootstrap 4 Admin Dashboard
 Author: Themesdesign
-Website: https://themesdesign.in/
+Website: https://www.cybsinnovations.com/
 File: Bootstrap Toasts Js
 */
 
