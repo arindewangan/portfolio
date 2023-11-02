@@ -71,8 +71,7 @@ const Slider = () => {
                 >
                   <a
                     className="px-btn px-btn-white"
-                    href="img/resume.png"
-                    download
+                    href="#contact"
                   >
                     {sliderContent.btnText}
                   </a>
