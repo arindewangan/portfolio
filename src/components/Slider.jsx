@@ -71,7 +71,7 @@ const Slider = () => {
                 >
                   <a
                     className="px-btn px-btn-white"
-                    href="#contact"
+                    href="#contactus"
                   >
                     {sliderContent.btnText}
                   </a>

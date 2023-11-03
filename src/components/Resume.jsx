@@ -10,7 +10,7 @@ const educatonContent = [
   {
     passingYear: "2021-2023",
     degreeTitle: "CEBA",
-    instituteName: "The Kingdom PU CollegeS",
+    instituteName: "The Kingdom PU College",
   },
 ];
 
